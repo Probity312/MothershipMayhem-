@@ -17,6 +17,13 @@
 - Game ends when all lives are lost
 
 ---
+## Screenshots
+- ![image](https://github.com/user-attachments/assets/444448f1-b1af-427b-967c-fcb02d0d09e9)
+-![Screenshot 2025-05-11 104902](https://github.com/user-attachments/assets/fa5f9914-2357-4468-a123-3c2b1f91e0f0)
+- ![Screenshot 2025-05-11 104916](https://github.com/user-attachments/assets/e2541580-751c-4ea9-94c2-6e8a3262c43f)
+- ![Screenshot 2025-05-11 104927](https://github.com/user-attachments/assets/d5db9b1d-3545-4bf3-8541-f2d2b71c95e7)
+- ![Screenshot 2025-05-11 104943](https://github.com/user-attachments/assets/08ae2baf-dd44-4db8-92e6-2b4fc4795139)
+
 
 ## 💻 Technologies Used
 
